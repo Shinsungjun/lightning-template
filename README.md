@@ -37,7 +37,7 @@ override things ...
 
 ### 🙏 Guide for me
 * RML_BEVSEG (not published yet) - yelin2
-* CvT : Introducing Convolutions to Vision Transformers - https://github.com/microsoft/CvT
+* CVT : Cross View Transformers - https://github.com/bradyz/cross_view_transformers
 * pytorch - https://pytorch.org/
 * pytorch-lightning - https://www.pytorchlightning.ai/
 
